@@ -5,7 +5,7 @@ export const Header = () => {
 	return (
 		<section className="text-center py-10">
 			<h1 className="font-title text-3xl sm:text-6xl text-[#444444] cursor-pointer">
-				<Link to='/'>The Dragon News</Link>
+				<Link to='/'>The React News</Link>
 			</h1>
 			<p className="text-base sm:text-base text-[#706F6F] mt-4">
 				Journalism Without Fear or Favour
